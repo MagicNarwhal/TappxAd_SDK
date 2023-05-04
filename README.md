@@ -1,1 +1,1 @@
-# TappxAd_SDK
+# Tappx SDK Framework pod
