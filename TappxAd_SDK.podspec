@@ -7,6 +7,7 @@ Pod::Spec.new do |s|
     s.license = { :type => 'MIT' }
     s.author = { "Alexey C." => "alexey@talkme.im" }
     s.source = { :git => "https://github.com/MagicNarwhal/TappxAd_SDK.git", :tag => "#{s.version}" }
+    s.static_framework = true
     s.vendored_frameworks = 'TappxFramework.xcframework', 'OMSDK_Tappx.xcframework'
     s.platform = :ios
     s.ios.deployment_target  = '12.0'
