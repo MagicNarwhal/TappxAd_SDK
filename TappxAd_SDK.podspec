@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "TappxAd_SDK"
-    s.version      = "4.0.1"
+    s.version      = "4.0.10"
     s.summary      = "Tappx Ad framework"
     s.description  = "Pod version for Tappx framework."
     s.homepage     = "https://developers.tappx.com/en/ios/tappx-sdk-integration/"
